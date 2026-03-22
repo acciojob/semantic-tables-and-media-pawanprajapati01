@@ -30,30 +30,3 @@
     </tbody>
 </table>
 
-<!-- Heading -->
-<h2>List of medias</h2>
-
-<!-- Ordered List -->
-<ol>
-    <!-- Image -->
-    <li>
-        <img src="https://picsum.photos/id/123/200/300" alt="Random Image">
-    </li>
-
-    <!-- Video -->
-    <li>
-        <video controls width="300">
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
-        </video>
-    </li>
-
-    <!-- Audio -->
-    <li>
-        <audio controls>
-            <source src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" type="audio/ogg">
-        </audio>
-    </li>
-</ol>
-
-</body>
-</html
