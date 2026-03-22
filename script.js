@@ -1,1 +1,59 @@
 //your code here
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic Tables and Media</title>
+</head>
+<body>
+
+<!-- Table -->
+<table border="1">
+    <thead>
+        <tr>
+            <th>Roll Number</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>John</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Jane</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Doe</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- Heading -->
+<h2>List of medias</h2>
+
+<!-- Ordered List -->
+<ol>
+    <!-- Image -->
+    <li>
+        <img src="https://picsum.photos/id/123/200/300" alt="Random Image">
+    </li>
+
+    <!-- Video -->
+    <li>
+        <video controls width="300">
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+        </video>
+    </li>
+
+    <!-- Audio -->
+    <li>
+        <audio controls>
+            <source src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" type="audio/ogg">
+        </audio>
+    </li>
+</ol>
+
+</body>
+</html
